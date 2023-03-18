@@ -4,6 +4,6 @@ Using unsupervised learning a report was created that inlcudes what cryptocurren
 Unsupervised learning was used becuase there is no known output for the request. A clustering algorithm used. 
 # Results
 [Link to Cypto Analysis](https://github.com/aahudson/Cryptocurrencies_Analysis/blob/main/cypto_clutering_2.ipynb)
-
+![Elobw Curve](https://github.com/aahudson/Cryptocurrencies_Analysis/blob/main/bokeh_plot.png)
 
 
